@@ -1,4 +1,4 @@
-Hoja de Trabajo 6 - 29/09/2024
+Hoja de Trabajo 7 - 29/09/2024
 
 Descripción de la API: Se actualizó la API creada para la HojaDeTrabajo6 con el fin de poder gestionar usuarios y verificar su identidad mediante un JWT Web Token. La API permite crear, acceder, listar, eliminar y actualizar usuarios, validando que no exista un usuario con el mismo DPI en el sistema.
 
